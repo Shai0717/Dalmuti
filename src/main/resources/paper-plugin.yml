@@ -1,0 +1,11 @@
+name: Dalmuti
+version: '1.0.0'
+main: kr.dalmuti.DalmutiPlugin
+api-version: '26.3'
+description: Display entity based Great Dalmuti
+dependencies:
+  server:
+    Kolor:
+      load: BEFORE
+      required: true
+      join-classpath: true

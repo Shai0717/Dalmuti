@@ -1,0 +1,4 @@
+# Number of seats, including bots. Must be between 4 and 8.
+participants: 4
+# Seconds after each deal during which a holder of both jesters can revolt.
+revolution-seconds: 10
