@@ -30,4 +30,4 @@ Gradle 9.4.1과 JDK 25가 필요합니다. 이 프로젝트는 같은 워크스�
 게임 중 플레이어는 제자리에 고정되며 시점은 자유롭게 움직일 수 있습니다. 카드는 눈높이에서 테이블 방향으로 배치됩니다. 임시 의자, 봇, 카드 및 애니메이션은 게임 종료와 플러그인 비활성화 시 제거됩니다.
 
 
-<iframe src="https://github.com/sponsors/Shai0717/card" title="Sponsor Shai0717" height="225" width="600" style="border: 0;"></iframe>
+[![GitHub Sponsors](https://img.shields.io/github/sponsors/Shai0717?style=flat&logo=githubsponsors&color=ea4aaa)](https://github.com/sponsors/Shai0717)
